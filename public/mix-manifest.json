@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/chart-area-demo.js": "/js/chart-area-demo.js",
+    "/js/chart-bar-demo.js": "/js/chart-bar-demo.js",
+    "/js/chart-pie-demo.js": "/js/chart-pie-demo.js",
+    "/js/datatables-demo.js": "/js/datatables-demo.js",
+    "/js/datatables-simple-demo.js": "/js/datatables-simple-demo.js",
+    "/css/app.css": "/css/app.css",
+    "/css/_admin.css": "/css/_admin.css"
+}
